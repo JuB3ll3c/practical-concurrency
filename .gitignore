@@ -1,0 +1,19 @@
+# Maven
+/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+*.log
+
+# Dependency directories
+/dependency/
